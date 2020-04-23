@@ -1,0 +1,8 @@
+def tersinialma():
+
+    a=input(str('yazıyı giriniz : '))
+    for i in a[::-1]:
+        print(i)
+
+tersinialma()
+print(tersinialma())
